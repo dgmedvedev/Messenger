@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Messenger</string>
-    <string name="name_plain_text_message">Name</string>
-    <string name="button_send">Send</string>
+    <string name="button_send">Явный intent</string>
+    <string name="button_send_out">Неявный intent</string>
     <string name="hint_enter_msg">Enter a message</string>
+    <string name="chooser_title">Как вы хотите отправить сообщение?</string>
 </resources>
